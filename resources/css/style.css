@@ -1,0 +1,83 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(13, 9, 83, 1) 0%, rgba(38, 33, 54, 0.348243521041229) 50%, rgba(10, 9, 68, 1) 95%);
+}
+
+.landingRedragon {
+    background: linear-gradient(90deg, rgba(66, 64, 111, 0.8916608879880077) 0%, rgba(79, 71, 105, 0.348243521041229) 50%, rgba(78, 77, 124, 0.863649683506215) 95%);
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    margin-top: 2%;
+    border-radius: 10px;
+    padding: 2%;
+}
+
+.imgLanding {
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 400px;
+    height: auto;
+    margin: 4%;
+}
+
+.primeraPantalla {
+    background: linear-gradient(90deg, rgba(117, 221, 223, 1) 0%, rgba(136, 180, 180, 0.4014648095566351) 50%, rgba(58, 197, 200, 1) 100%);
+    border-radius: 10px;
+}
+
+#btnLanding {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+
+.columnaUno {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.columnaDos {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footerPrincipal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(90deg, rgba(117, 221, 223, 1) 0%, rgba(136, 180, 180, 0.9616888991924895) 50%, rgba(58, 197, 200, 1) 100%);
+    text-shadow: -3px 0px 6px rgb(136, 134, 134);
+    border-radius: 20px;
+    padding: 15px;
+    border: 10px;
+    margin: auto;
+}
+
+.catalogo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ajusteImg {
+    width: 250px;
+    height: 310px;
+    margin: 6%;
+}
+
+.card {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px !important;
+    background-color: rgb(221, 214, 214);
+}
+
+.cardPage {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px !important;
+    margin: 10px;
+}
+
+.textUno {
+    text-align: left
+}
+
+#idHome {
+    cursor: pointer;
+}
